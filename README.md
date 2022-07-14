@@ -1,1 +1,3 @@
-# GoalList
+# GoalLi
+
+MERN stack application 
