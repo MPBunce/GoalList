@@ -19,11 +19,11 @@ function Header() {
                     <FaUser/> Register
                 </Link> 
             </li>
-            <li>
+{/*             <li>
                <Link to='/Dashboard'>
                     <FaSignOutAlt/> Logout
                 </Link> 
-            </li>
+            </li> */}
         </ul>
     </header>
   )
