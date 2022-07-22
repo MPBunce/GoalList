@@ -1,6 +1,6 @@
 # GoalList
 
-MERN stack application 
+MERN stack application which allowed users to record goals
 
 Login Page
 ![image](https://user-images.githubusercontent.com/77083766/180579482-2043dba2-cd8e-4ea4-8050-e524543e7a3c.png)
